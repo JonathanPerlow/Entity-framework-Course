@@ -1,0 +1,15 @@
+D:\HobbyProgrammering\PublisherApp\PublisherData\bin\Debug\net7.0\PublisherData.deps.json
+D:\HobbyProgrammering\PublisherApp\PublisherData\bin\Debug\net7.0\PublisherData.dll
+D:\HobbyProgrammering\PublisherApp\PublisherData\bin\Debug\net7.0\PublisherData.pdb
+D:\HobbyProgrammering\PublisherApp\PublisherData\bin\Debug\net7.0\PublisherDomain.dll
+D:\HobbyProgrammering\PublisherApp\PublisherData\bin\Debug\net7.0\PublisherDomain.pdb
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.csproj.AssemblyReference.cache
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.AssemblyInfoInputs.cache
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.AssemblyInfo.cs
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.csproj.CoreCompileInputs.cache
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.csproj.CopyComplete
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.dll
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\refint\PublisherData.dll
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\PublisherData.pdb
+D:\HobbyProgrammering\PublisherApp\PublisherData\obj\Debug\net7.0\ref\PublisherData.dll
