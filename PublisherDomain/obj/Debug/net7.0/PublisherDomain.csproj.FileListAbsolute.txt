@@ -1,0 +1,11 @@
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\bin\Debug\net7.0\PublisherDomain.deps.json
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\bin\Debug\net7.0\PublisherDomain.dll
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\bin\Debug\net7.0\PublisherDomain.pdb
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\PublisherDomain.AssemblyInfoInputs.cache
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\PublisherDomain.AssemblyInfo.cs
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\PublisherDomain.csproj.CoreCompileInputs.cache
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\PublisherDomain.dll
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\refint\PublisherDomain.dll
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\PublisherDomain.pdb
+D:\HobbyProgrammering\PublisherApp\PublisherDomain\obj\Debug\net7.0\ref\PublisherDomain.dll
